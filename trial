@@ -1,0 +1,9 @@
+chck=str(input("enter the fileename : "))
+if (".py" in chck):
+   print("extension of filename is: PYTHON")
+elif (".c" in chck):
+   print("extension of filename is: c++)
+elif (".c" in chck):
+   print("extension of filename is: C")
+elif (".class" in chck):
+   print("extension of filename is: JAVA")
